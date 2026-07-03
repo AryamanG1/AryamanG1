@@ -13,11 +13,15 @@ Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Sci
 ---
 
 ## Backend Development (Microservices)
+
+### Spring Ecosystem (Java)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Node.js Ecosystem
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -48,15 +52,20 @@ Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Sci
 ![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Compute Engine](https://img.shields.io/badge/Compute_Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GCP IAM](https://img.shields.io/badge/GCP_IAM-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Source Repositories](https://img.shields.io/badge/Cloud_Repositories-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Artifact Registry](https://img.shields.io/badge/Artifact_Registry-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Monitoring](https://img.shields.io/badge/Cloud_Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### AWS
 ![AWS CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![ECR](https://img.shields.io/badge/ECR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![ECS](https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=FF9900)
 ![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![RDS](https://img.shields.io/badge/RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![S3](https://img.shields.io/badge/S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![SQS](https://img.shields.io/badge/AWS_SQS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazon-cloudwatch&logoColor=FF9900)
 
 ### Azure
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -78,11 +87,19 @@ Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Sci
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![ECS](https://img.shields.io/badge/Amazon_ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=FF9900)
 
 ## Asynchronous Communication & Message Queues
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![GCP Pub/SUB](https://img.shields.io/badge/Pub%2FSUB-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/AWS_SQS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
+## Monitoring, Registries & Version Control (Cloud)
+![Cloud Source Repositories](https://img.shields.io/badge/Cloud_Source_Repositories-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Artifact Registry](https://img.shields.io/badge/Artifact_Registry-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Monitoring](https://img.shields.io/badge/Cloud_Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=for-the-badge&logo=amazon-cloudwatch&logoColor=FF9900)
+![ECR](https://img.shields.io/badge/AWS_ECR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 ## Database Technologies
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -104,6 +121,9 @@ Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Sci
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CuPy](https://img.shields.io/badge/CuPy-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![OpenACC](https://img.shields.io/badge/OpenACC-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+## Quantum Computing
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
 ---
 
