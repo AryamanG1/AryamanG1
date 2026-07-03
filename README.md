@@ -1,6 +1,14 @@
-# Aryaman's Technology Arsenal
+# Hey there Explorers 
 
-> A comprehensive showcase of my hands-on experience across modern cloud platforms, microservices, and cutting-edge technologies
+My name is **Aryaman**. I am someone who loves exploring and implementing new things. A fanatic for the ocean of technology and the treasures that lay hidden.
+
+Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Science** at **Thapar Institute of Engineering and Technology, Patiala**.
+
+---
+
+# Technology Arsenal
+
+> A showcase of my hands-on experience across modern cloud platforms, microservices, and cutting edge technologies
 
 ---
 
@@ -101,6 +109,6 @@
 
 <div align="center">
 
-Always Learning | Always Building | Always Exploring
+Always Learning 
 
 </div>
