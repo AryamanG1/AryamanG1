@@ -25,19 +25,6 @@ Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Sci
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## Python Ecosystem
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Machine Learning & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
-### AI Agents & LLM
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
-
 ## Cloud Service Providers
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -59,7 +46,6 @@ Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Sci
 ### AWS
 ![AWS CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![ECR](https://img.shields.io/badge/ECR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![ECS](https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=FF9900)
 ![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![RDS](https://img.shields.io/badge/RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![S3](https://img.shields.io/badge/S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
@@ -68,7 +54,7 @@ Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Sci
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazon-cloudwatch&logoColor=FF9900)
 
 ### Azure
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Blob Storage](https://img.shields.io/badge/Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -84,10 +70,10 @@ Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Sci
 
 ## DevOps & Container Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=hashicorp&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![ECS](https://img.shields.io/badge/Amazon_ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=FF9900)
 
 ## Asynchronous Communication & Message Queues
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -100,6 +86,19 @@ Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Sci
 ![Cloud Monitoring](https://img.shields.io/badge/Cloud_Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=for-the-badge&logo=amazon-cloudwatch&logoColor=FF9900)
 ![ECR](https://img.shields.io/badge/AWS_ECR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
+## Python Ecosystem
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Machine Learning & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+### AI Agents & LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
 
 ## Database Technologies
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
