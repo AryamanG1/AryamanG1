@@ -2,7 +2,7 @@
 
 My name is **Aryaman**. I am someone who loves exploring and implementing new things. A fanatic for the ocean of technology and the treasures that lay hidden.
 
-Currently I am in my 4th year pursuing **Bachelor of Engineering in Computer Science** at **Thapar Institute of Engineering and Technology, Patiala**.
+Currently in my 4th year pursuing **Bachelor of Engineering in Computer Science** at **Thapar Institute of Engineering and Technology, Patiala**.
 
 ---
 
