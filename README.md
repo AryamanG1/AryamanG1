@@ -8,7 +8,7 @@ Currently in my 4th year pursuing **Bachelor of Engineering in Computer Science*
 
 # Technology Arsenal
 
-> A showcase of my hands-on experience across modern cloud platforms, microservices, and cutting edge technologies
+> A showcase of all the technologies that I have hands on experience with.
 
 ---
 
