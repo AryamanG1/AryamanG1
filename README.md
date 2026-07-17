@@ -95,13 +95,6 @@ Currently in my 4th year pursuing **Bachelor of Engineering in Computer Science*
 ![GCP Pub/SUB](https://img.shields.io/badge/Pub%2FSUB-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/AWS_SQS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
-## Monitoring, Registries & Version Control (Cloud)
-![Cloud Source Repositories](https://img.shields.io/badge/Cloud_Source_Repositories-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Artifact Registry](https://img.shields.io/badge/Artifact_Registry-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloud Monitoring](https://img.shields.io/badge/Cloud_Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=for-the-badge&logo=amazon-cloudwatch&logoColor=FF9900)
-![ECR](https://img.shields.io/badge/AWS_ECR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-
 ## Python Ecosystem
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
