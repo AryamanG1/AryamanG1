@@ -33,8 +33,7 @@ Currently in my 4th year pursuing **Bachelor of Engineering in Computer Science*
 ## Cloud Services (Hands On)
 
 ### GCP
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP Cloud Build](https://img.shields.io/badge/Cloud_Build-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud Build](https://img.shields.io/badge/Cloud_Build-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Compute Engine](https://img.shields.io/badge/Compute_Engine-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -42,6 +41,9 @@ Currently in my 4th year pursuing **Bachelor of Engineering in Computer Science*
 ![Cloud Source Repositories](https://img.shields.io/badge/Cloud_Repositories-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Artifact Registry](https://img.shields.io/badge/Artifact_Registry-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloud Monitoring](https://img.shields.io/badge/Cloud_Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud Logging](https://img.shields.io/badge/Cloud_Logging-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloud VPC](https://img.shields.io/badge/Cloud_VPC-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ### AWS
 ![AWS CodeBuild](https://img.shields.io/badge/CodeBuild-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
@@ -52,6 +54,7 @@ Currently in my 4th year pursuing **Bachelor of Engineering in Computer Science*
 ![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![SQS](https://img.shields.io/badge/AWS_SQS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazon-cloudwatch&logoColor=FF9900)
+![AWS Config](https://img.shields.io/badge/AWS_Config-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 ### Azure
 ![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -60,6 +63,18 @@ Currently in my 4th year pursuing **Bachelor of Engineering in Computer Science*
 ![Azure Blob Storage](https://img.shields.io/badge/Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Entra](https://img.shields.io/badge/Azure_Entra-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Resource Groups](https://img.shields.io/badge/Resource_Groups-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure CLI](https://img.shields.io/badge/Azure_CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure SDK](https://img.shields.io/badge/Azure_SDK-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Resource Manager](https://img.shields.io/badge/Azure_Resource_Manager-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Resource Graph](https://img.shields.io/badge/Azure_Resource_Graph-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure Networks](https://img.shields.io/badge/Azure_Networks-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Virtual Machines](https://img.shields.io/badge/Azure_Virtual_Machines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Cost Management](https://img.shields.io/badge/Azure_Cost_Management-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Cognitive Services](https://img.shields.io/badge/Azure_Cognitive_Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kusto Query Language](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## Frontend Development
 ![HTML](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -97,14 +112,20 @@ Currently in my 4th year pursuing **Bachelor of Engineering in Computer Science*
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-### AI Agents & LLM
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
+### AI Engineering
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-3ECF8E?style=for-the-badge&logo=pinecone&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-3ECF8E?style=for-the-badge)
 
 ## Database Technologies
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3ECF8E?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ## High Performance Computing
 ### Languages & Frameworks
